@@ -2050,6 +2050,13 @@ body {
     margin-left: -0.8rem;
   }
 }
+.cid-qHqqOFe55Q .mbr-section-subtitle,
+.cid-qHqqOFe55Q .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-qHqqOFe55Q .mbr-section-title FONT {
+  color: #ffffff;
+}
 .cid-qHqitfjz9F {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -2367,7 +2374,7 @@ body {
 }
 .cid-qHqn5Waiw7 {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/8-500x167.png");
 }
 .cid-qHqn5Waiw7 .mbr-text,
@@ -2376,6 +2383,7 @@ body {
 }
 .cid-qHqn5Waiw7 .mbr-section-title {
   margin-left: -0.2rem;
+  color: #333333;
 }
 .cid-qHqn5Waiw7 .mbr-section-title span {
   color: #ffbc00;
@@ -2392,9 +2400,9 @@ body {
   color: #166e6e;
 }
 .cid-qHqlc1wPX5 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #166e6e;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
 }
 .cid-qHqlc1wPX5 .icon-transition span {
   padding: 0.1rem 0.9rem;
@@ -2483,14 +2491,14 @@ body {
   }
 }
 .cid-qHqlc1wPX5 .mbr-section-title {
-  color: #ffffff;
+  color: #166e6e;
 }
 .cid-qHqlc1wPX5 .mbr-text DIV {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-qHqlc1wPX5 .mbr-list,
 .cid-qHqlc1wPX5 .social-media UL {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-qHqpkcQFMG {
   padding-top: 45px;
@@ -2806,4 +2814,139 @@ body {
 .cid-qH0GsQ4Kcl .nav-link:hover,
 .cid-qH0GsQ4Kcl .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-qHu4aqf4Mm {
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qHu4aqf4Mm .text {
+  letter-spacing: 0.03em;
+  line-height: 1.7;
+}
+.cid-qHu4aqf4Mm .mbr-text {
+  width: 100%;
+  height: auto;
+  color: #000000;
+}
+@media (max-width: 991px) {
+  .cid-qHu4aqf4Mm .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .cid-qHu4aqf4Mm .content {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 0;
+  }
+}
+.cid-qHu4aqf4Mm .mbr-section-title {
+  color: #333333;
+}
+.cid-qHu1jeBrxY {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qHu1OtMZcs {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #166e6e;
+}
+.cid-qHu1OtMZcs .mbr-iconfont {
+  font-size: 34px;
+  transition: color .3s;
+}
+.cid-qHu1OtMZcs .mbr-section-title {
+  margin: 0;
+}
+.cid-qHu1OtMZcs .underline {
+  margin-top: -0.5rem;
+  margin-bottom: -0.5rem;
+}
+.cid-qHu1OtMZcs .underline .line {
+  width: 3rem;
+  height: 2px;
+  background: #ffffff;
+  display: inline-block;
+}
+.cid-qHu1OtMZcs .card-img {
+  text-align: left;
+}
+.cid-qHu1OtMZcs .row-item {
+  padding-bottom: 2rem;
+}
+.cid-qHu1OtMZcs .row-item:hover .card-img .mbr-iconfont {
+  color: #ffbc00 !important;
+}
+@media (max-width: 767px) {
+  .cid-qHu1OtMZcs .card-img,
+  .cid-qHu1OtMZcs .mbr-text,
+  .cid-qHu1OtMZcs .mbr-card-title,
+  .cid-qHu1OtMZcs .mbr-section-subtitle,
+  .cid-qHu1OtMZcs .mbr-section-title,
+  .cid-qHu1OtMZcs .underline {
+    text-align: center !important;
+  }
+}
+.cid-qHu1OtMZcs .mbr-section-title,
+.cid-qHu1OtMZcs .underline {
+  color: #ffffff;
+}
+.cid-qHu1OtMZcs .mbr-text {
+  color: #ffffff;
+}
+.cid-qHu1OtMZcs .mbr-card-title,
+.cid-qHu1OtMZcs .card-img {
+  color: #ffffff;
+}
+.cid-qHu3vwUR6g {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #166e6e;
+}
+.cid-qHu3YY3L31 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+.cid-qHu3YY3L31 a:link {
+  text-decoration: none;
+}
+.cid-qHu3YY3L31 .icon-transition span {
+  color: #ffffff;
+  display: block;
+  height: 3em;
+  line-height: 3em;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  width: 3em;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-size: 14px;
+}
+.cid-qHu3YY3L31 .icon-transition span:hover {
+  background-color: #ffbc00;
+}
+.cid-qHu3YY3L31 .inner-text {
+  line-height: 3em;
+}
+.cid-qHu3YY3L31 .social-media {
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qHu3YY3L31 .social-media ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.cid-qHu3YY3L31 .social-media ul li {
+  padding: 4px;
+  display: inline-block;
+}
+.cid-qHu3YY3L31 .content-text,
+.cid-qHu3YY3L31 .inner-text {
+  color: #c1c1c1;
 }
