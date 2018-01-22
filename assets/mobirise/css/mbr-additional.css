@@ -2374,8 +2374,8 @@ body {
 }
 .cid-qHqn5Waiw7 {
   padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/8-500x167.png");
+  padding-bottom: 105px;
+  background-color: #166e6e;
 }
 .cid-qHqn5Waiw7 .mbr-text,
 .cid-qHqn5Waiw7 .mbr-section-text {
@@ -2383,7 +2383,7 @@ body {
 }
 .cid-qHqn5Waiw7 .mbr-section-title {
   margin-left: -0.2rem;
-  color: #333333;
+  color: #ffffff;
 }
 .cid-qHqn5Waiw7 .mbr-section-title span {
   color: #ffbc00;
@@ -2397,7 +2397,7 @@ body {
   }
 }
 .cid-qHqn5Waiw7 .mbr-section-title SPAN {
-  color: #166e6e;
+  color: #ffffff;
 }
 .cid-qHqlc1wPX5 {
   padding-top: 45px;
@@ -2416,6 +2416,9 @@ body {
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   font-size: 14px;
+}
+.cid-qHqlc1wPX5 .content-row {
+  flex-direction: row-reverse;
 }
 .cid-qHqlc1wPX5 .photo-split {
   padding: 0;
@@ -2499,6 +2502,56 @@ body {
 .cid-qHqlc1wPX5 .mbr-list,
 .cid-qHqlc1wPX5 .social-media UL {
   color: #000000;
+}
+.cid-qHu62oi6oo {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url("../../../assets/images/18839730-10155205865671427-7434197111821221774-o-2-1128x752.jpg");
+}
+.cid-qHu62oi6oo .row {
+  margin-left: -5rem;
+}
+.cid-qHu62oi6oo .slider-text-two {
+  background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+  display: inline-block;
+  outline: 1px solid rgba(0, 0, 0, 0.2);
+  outline-offset: -15px;
+  padding: 65px 50px;
+  position: relative;
+}
+.cid-qHu62oi6oo .mbr-section-title,
+.cid-qHu62oi6oo .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-qHu62oi6oo .mbr-section-subtitle span {
+  font-weight: bold;
+}
+.cid-qHu62oi6oo .mbr-text {
+  color: #232323;
+  font-weight: 100;
+}
+.cid-qHu62oi6oo .mbr-section-btn {
+  color: white;
+}
+@media (max-width: 767px) {
+  .cid-qHu62oi6oo .row {
+    margin-left: -15px;
+  }
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-qHu62oi6oo .slider-text-two {
+    outline: 15px solid rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+  }
+}
+.cid-qHu62oi6oo .mbr-section-subtitle DIV {
+  text-align: center;
+}
+.cid-qHu62oi6oo .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-qHu62oi6oo .mbr-section-title {
+  text-align: center;
 }
 .cid-qHqpkcQFMG {
   padding-top: 45px;
