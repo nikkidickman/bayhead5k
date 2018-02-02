@@ -1950,7 +1950,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qHqqOFe55Q {
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-3-1620x1080.jpg");
 }
@@ -1982,8 +1982,14 @@ body {
 }
 .cid-qIvMxDbc3m {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 60px;
   background-color: #ffffff;
+}
+.cid-qIvMxDbc3m .mbr-text DIV {
+  text-align: center;
+}
+.cid-qIvMxDbc3m .mbr-title {
+  text-align: center;
 }
 .cid-qIqUhx0VmX {
   padding-top: 45px;
